@@ -1,4 +1,4 @@
-OASISFormat: 0.1
+OASISFormat: 0.4
 Name:        geoip
 Version:     0.0.2
 Synopsis:    Bindings to GeoIP library
